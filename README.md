@@ -1,2 +1,2 @@
 # Maura-Osthoff---Projects
-These are my projects that I have worked on
+These are my personal projects that I have worked on.
